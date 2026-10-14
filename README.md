@@ -7,7 +7,7 @@ main portfolio and the photography site. No framework, no build step.
 ## What's inside
 
 - `index.html` — the entire site (HTML + CSS + JS in one file)
-- `assets/design/static/` — 13 static designs, each as `-thumb.jpg` (grid,
+- `assets/design/static/` — 11 static designs, each as `-thumb.jpg` (grid,
   ~1000px) and full-quality `.jpg` (lightbox, ~2000px)
 - `assets/design/video/` — 5 video edits, each as three files:
   - `-poster.jpg` — a still frame shown before the video plays
